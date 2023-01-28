@@ -1,0 +1,35 @@
+.center{
+  text-align: center;
+  
+}
+.bg-red{
+  background-color: red;
+}
+.mx-auto{
+  margin: auto;
+}
+.flex{
+  display: flex;
+} 
+.flex-col{
+  flex-direction: column;
+}
+.items{
+  text-align: center;
+}
+.container {
+  padding: 2%;
+}
+.yellow{
+  background-color:#ffdd00;
+  
+}
+.c-red{
+  background-color: red;
+}
+.longb{
+  width: 15%;
+}
+button:hover{
+  background-color: blue;
+}
